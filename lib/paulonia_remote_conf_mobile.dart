@@ -1,7 +1,7 @@
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:paulonia_remote_conf/constants.dart';
 import 'package:paulonia_remote_conf/remote_conf_value.dart';
-import 'package:paulonia_utils/paulonia_utils.dart';
+import 'package:paulonia_remote_conf/utils/paulonia_utils.dart';
 
 class PauloniaRemoteConfService {
   /// Remote configuration instance
