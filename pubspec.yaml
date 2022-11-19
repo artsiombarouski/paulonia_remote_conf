@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_remote_config: ^2.0.0
+  firebase_remote_config: ^3.0.6
   firebase: ^9.0.2
   device_info_plus: ^3.2.1
   connectivity_plus: ^2.2.0
